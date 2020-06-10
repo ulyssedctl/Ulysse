@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.testtheme.ulysse.deb
+Name: Ulysse's icons.theme
+Depends: UlysseDCTL
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is a test do not install it it is bad
+Maintainer: Ulysse
+Author: Ulysse
+Section: Theme
+Filename: ./debs/com.testtheme.ulysse.deb
+Depiction: https://ulyssedctl.github.io/Ulysse/
+Size: 100
+MD5sum: 68945a282e099c4f97a61b33b978dd91
+
